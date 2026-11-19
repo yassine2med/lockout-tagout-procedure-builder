@@ -1,0 +1,19 @@
+equipment: Air Handler AHU-3
+building: Building A
+authorized_employees:
+  - Technician 1
+  - Technician 2
+energy_sources:
+  - type: electrical
+    location: Panel MP-2, breaker 14
+    isolation: Open breaker 14 and rack out if possible
+    lock_id: LK-101
+  - type: pneumatic
+    location: Damper actuator supply valve
+    isolation: Close the supply valve
+    lock_id: LK-102
+    release: Bleed the actuator line at the test port
+  - type: thermal
+    location: Hot water coil valve
+    isolation: Close the coil isolation valve
+    lock_id: LK-103
