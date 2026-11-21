@@ -2,6 +2,8 @@
 
 # lockout-tagout-procedure-builder
 
+[![CI](https://github.com/yassine2med/lockout-tagout-procedure-builder/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/lockout-tagout-procedure-builder/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Turns a YAML description of equipment and its energy sources into a validated Markdown lockout tagout procedure sheet.
 
 ![Screenshot](docs/screenshot.png)
