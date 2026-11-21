@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="lockout-tagout-procedure-builder" width="100%"></p>
+
 # lockout-tagout-procedure-builder
 
 Turns a YAML description of equipment and its energy sources into a validated Markdown lockout tagout procedure sheet.
